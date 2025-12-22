@@ -121,6 +121,7 @@ class _OnboardingPageState extends State<OnboardingScreen> {
                                   textAlign: TextAlign.center,
                                 ),
                               ),
+                              //ok
                               Container(
                                 padding: EdgeInsets.symmetric(
                                   horizontal: Get.width * 0.1,
