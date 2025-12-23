@@ -82,9 +82,15 @@ Le projet est réalisé dans un cadre collaboratif, chaque membre de l’équipe
 
 ---
 
-## Lien drive et Figma
-https://drive.google.com/file/d/1eON2grH2VWFl-Zq9eYd9insyVJYjKCiu/view?usp=sharing
-https://www.figma.com/proto/MGIyJSY1cipvZoRFLCzrDi/Beauty-Products-E-commerce-App--Community-?node-id=0-1&t=gprPufN9mK3hS2gX-1
+## Lien drive pour la vidéo et Figma et le cahier de charge
+https://drive.google.com/file/d/1eON2grH2VWFl-Zq9eYd9insyVJYjKCiu/view?usp=sharing   ( lien de la vidéo)
+
+https://www.figma.com/proto/MGIyJSY1cipvZoRFLCzrDi/Beauty-Products-E-commerce-App--Community-?node-id=0-1&t=gprPufN9mK3hS2gX-1  ( lien Figma)
+
+https://drive.google.com/file/d/1kylhUQZaImvKEgH8-GfmTYPMgRxmxSqz/view?usp=drive_link  (lien du cahier de charges)
+
+---
+Le cahier de charge n'a pas été totalement respecté
 
 ### Prérequis
 - Flutter SDK installé
@@ -95,4 +101,5 @@ https://www.figma.com/proto/MGIyJSY1cipvZoRFLCzrDi/Beauty-Products-E-commerce-Ap
 ```bash
 flutter pub get
 flutter run
+
 
